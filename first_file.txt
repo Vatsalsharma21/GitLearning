@@ -2,3 +2,4 @@ This is the first file added to the project
 
 This file comes before the others and git is tracking my changes.
 adding another line just for fun
+Trying git for the first time
